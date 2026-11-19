@@ -16,8 +16,8 @@ CIS student at the University of Florida, open to SDE and ML engineering roles.
 
 | Role | Highlights |
 | :--- | :--- |
-| **Software Engineer**, Accenture<br/><sub>Aug 2024 – Jul 2026</sub> | Owned features for production Guidewire policy and billing apps in Java and Gosu, from design through CI/CD. Built REST integration workflows, served on the on-call rotation, and built a release-health metrics dashboard. |
-| **Software Engineer Intern**, DRDO<br/><sub>Jan 2024 – Jun 2024</sub> | Built a YOLOv8 detection pipeline in PyTorch over ~20k aircraft images (~25% accuracy gain over baseline) and rewrote hot paths in C++ (~20% faster). |
+| **Software Engineer**, Accenture<br/> | Owned features for production Guidewire policy and billing apps in Java and Gosu, from design through CI/CD. Built REST integration workflows, served on the on-call rotation, and built a release-health metrics dashboard. |
+| **Software Engineer Intern**, DRDO<br/> | Built a YOLOv8 detection pipeline in PyTorch over ~20k aircraft images (~25% accuracy gain over baseline) and rewrote hot paths in C++ (~20% faster). |
 
 <br/>
 
