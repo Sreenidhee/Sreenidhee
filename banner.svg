@@ -27,14 +27,11 @@
   <rect x="1" y="38" width="898" height="3" fill="url(#edge)"/>
 
   <!-- whoami -->
-  <text x="34" y="78" class="mono line l1" font-size="17"><tspan fill="#2dd4bf">❯</tspan><tspan fill="#e2e8f0">&#160;whoami</tspan></text>
   <text x="34" y="114" class="sans line l2" font-size="30" font-weight="700" fill="#f8fafc">Sreenidhee Vidya Modugu</text>
 
   <!-- role -->
-  <text x="34" y="152" class="mono line l3" font-size="17"><tspan fill="#2dd4bf">❯</tspan><tspan fill="#e2e8f0">&#160;cat role.txt</tspan></text>
   <text x="34" y="178" class="mono line l4" font-size="17" fill="#5eead4">Software Engineer · ML Engineer  <tspan fill="#94a3b8">// Go · Java · Kafka · PyTorch</tspan></text>
 
   <!-- status -->
-  <text x="34" y="214" class="mono line l5" font-size="17"><tspan fill="#2dd4bf">❯</tspan><tspan fill="#e2e8f0">&#160;status</tspan></text>
   <text x="34" y="240" class="mono line l6" font-size="17" fill="#94a3b8">M.S. CIS @ University of Florida · <tspan fill="#4ade80">open to SDE &amp; MLE roles</tspan><tspan fill="#2dd4bf" class="cursor">&#160;▌</tspan></text>
 </svg>
